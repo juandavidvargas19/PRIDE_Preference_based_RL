@@ -7,8 +7,8 @@ The objective of the study titled "Know thyself: Metacognitive networks and meas
 📖 See the original [paper](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/docs/Know%20thyself-%20Metacognitive%20networks%20and%20measures%20of%20consciousness.pdf) for more explanation and the [suplemental material](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/docs/Know%20thyself-%20Metacognitive%20networks%20and%20measures%20of%20consciousness_arch.pdf).
 
 ## Contributors
-# Original authors: Antoine Pasquali, Bert Timmermans, Axel Cleeremans
-# New contributors: Juan David Vargas
+- Original authors: Antoine Pasquali, Bert Timmermans, Axel Cleeremans
+- New contributors: Juan David Vargas
 
 ## Notes
 
@@ -19,6 +19,7 @@ Simulation 2 focused on the Artificial Grammar Learning (AGL) task. Similar to t
 Simulation 3 centered around the Iowa Gambling Task, a classic experiment used to study decision-making and risk assessment. In this simulation, two neural networks were interconnected to model the decision-making process. The first-order network received inputs representing outcomes of card decks, and the second-order network placed wagers based on the perceived success of previous decisions. The networks learned to explore and choose decks with higher probabilities of rewards. The simulation aimed to demonstrate how metacognitive processing, represented by the second-order network, influenced decision-making based on the first-order network's performance. By varying learning rates and awareness conditions, the researchers assessed how the networks' metacognitive abilities affected their wagering strategies and decision-making performance. You can find the notes of the architecure [here]() to better understand the implementation.
 
 ## Tests
+
 Here you can see the code and the results obtained for every implementation
 
 🛠 [Blindsight Simulation](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/tests/Blindsight_Simulation_GITHUB.ipynb) 
