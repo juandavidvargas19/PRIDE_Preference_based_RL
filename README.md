@@ -1,26 +1,14 @@
-# HyPyP 🐍〰️🐍
+# Know thyself: Metacognitive networks and measures of consciousness〰️
 
-The **Hy**perscanning **Py**thon **P**ipeline
+The objective of the study titled "Know thyself: Metacognitive networks and measures of consciousness" by Antoine Pasquali, Bert Timmermans, and Axel Cleeremans is to investigate the relationship between subjective measures of awareness and metacognitive capacities. The study introduces the concept of Post-Decision Wagering (PDW) as a measure of awareness, where participants place wagers on their decisions to indicate their confidence levels. The authors propose that such subjective measures of awareness reflect metacognitive abilities driven by self-developed metarepresentations, which inform individuals about their own internal states. The study employs simulations in neural networks to demonstrate the influence of metarepresentations on PDW and provides a fitting comparison with human data. This work contributes to the understanding of consciousness and its assessment methods.
 
-[![PyPI version shields.io](https://img.shields.io/pypi/v/hypyp.svg)](https://pypi.org/project/HyPyP/) [![CI](https://github.com/ppsp-team/HyPyP/actions/workflows/Build.yml/badge.svg)](https://github.com/ppsp-team/HyPyP/actions/workflows/Build.yml) <a href="https://hypyp.readthedocs.io"><img src="https://readthedocs.org/projects/hypyp/badge/?version=latest"></a> [![license](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Mattermost](https://img.shields.io/discord/1065810348944408616?color=blue)](https://discord.gg/zYzjeGj7D6)
+⚠️ This simulations are a replication of the exposed paper. Its results should be considered with caution. While we have done our best to test all the functionalities, there is no guarantee that the architecture is a faithful replica of the original. 
 
-⚠️ This software is in beta and thus should be considered with caution. While we have done our best to test all the functionalities, there is no guarantee that the pipeline is entirely bug-free. 
-
-📖 See our [paper](https://academic.oup.com/scan/advance-article/doi/10.1093/scan/nsaa141/5919711) for more explanation and our plan for upcoming functionalities (aka Roadmap).
-
-🤝 If you want to help you can submit bugs and suggestions of enhancements in our Github [Issues section](https://github.com/ppsp-team/HyPyP/issues).
-
-🤓 For the motivated contributors, you can even help directly in the developpment of HyPyP. You will need to install [Poetry](https://python-poetry.org/) (see section below).
+📖 See the original [paper](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/docs/Know%20thyself-%20Metacognitive%20networks%20and%20measures%20of%20consciousness.pdf) for more explanation and the [suplemental material](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/docs/Know%20thyself-%20Metacognitive%20networks%20and%20measures%20of%20consciousness_arch.pdf).
 
 ## Contributors
-Original authors: Florence BRUN, Anaël AYROLLES, Phoebe CHEN, Amir DJALOVSKI, Yann BEAUXIS, Suzanne DIKKER, Guillaume DUMAS
-New contributors: Ghazaleh RANJBARAN, Quentin MOREAU, Caitriona DOUGLAS, Franck PORTEOUS, Jonas MAGO, Juan C. AVENDANO, Julie BONNAIRE
-
-## Installation
-
-```
-pip install HyPyP
-```
+Original authors: Antoine Pasquali, Bert Timmermans, Axel Cleeremans
+New contributors: Juan David Vargas
 
 ## Documentation
 
