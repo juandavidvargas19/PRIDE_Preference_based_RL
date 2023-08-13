@@ -1,6 +1,5 @@
-site_name: HyPyP Docs
-site_url: https://hypyp.readthedocs.io/
-repo_url: https://github.com/ppsp-team/HyPyP/
+site_name: Know Thyself Replication
+repo_url: https://github.com/juandavidvargas19/Know_Thyself_Replication/
 
 markdown_extensions:
   - admonition
@@ -22,5 +21,3 @@ plugins:
           options:
             show_source: false
 
-watch:
-  - hypyp
