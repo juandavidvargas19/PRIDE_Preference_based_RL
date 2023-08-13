@@ -7,42 +7,30 @@ The objective of the study titled "Know thyself: Metacognitive networks and meas
 📖 See the original [paper](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/docs/Know%20thyself-%20Metacognitive%20networks%20and%20measures%20of%20consciousness.pdf) for more explanation and the [suplemental material](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/docs/Know%20thyself-%20Metacognitive%20networks%20and%20measures%20of%20consciousness_arch.pdf).
 
 ## Contributors
-Original authors: Antoine Pasquali, Bert Timmermans, Axel Cleeremans
-New contributors: Juan David Vargas
+# Original authors: Antoine Pasquali, Bert Timmermans, Axel Cleeremans
+# New contributors: Juan David Vargas
 
-## Documentation
+## Notes
 
-HyPyP documentation of all the API functions is available online at [hypyp.readthedocs.io](https://hypyp.readthedocs.io/)
+In Simulation 1, the researchers focused on the phenomenon of blindsight. They used neural networks with a specific architecture where a first-order network learned to discriminate between patterns while a second-order network learned to place wagers based on the first-order network's performance. The first-order network was trained to recognize patterns and provide feedback to the second-order network, which wagered on the accuracy of the first-order network's recognition. This simulation aimed to mimic situations of blindsight, where the first-order network either correctly recognized a stimulus, failed to recognize it, or incorrectly recognized it. By manipulating the signal-to-noise ratio and stimulus activation, the simulation demonstrated the metacognitive abilities of the second-order network to wager appropriately even when the first-order network's recognition was impaired, mirroring aspects of human blindsight. You can find the notes of the architecure [here]() to better understand the implementation.
 
-For getting started with HyPyP, we have designed a little walkthrough: [getting_started.ipynb](https://github.com/ppsp-team/HyPyP/blob/master/tutorial/getting_started.ipynb)
+Simulation 2 focused on the Artificial Grammar Learning (AGL) task. Similar to the previous simulation, neural networks were employed, but this time, they learned grammatical patterns according to specific artificial grammars. The first-order network recognized patterns, and the second-order network placed wagers based on the first-order network's performance. This simulation aimed to explore the networks' ability to learn grammatical patterns and wager effectively. The training and testing phases involved different grammatical structures and levels of awareness. By varying learning conditions and simulating high and low consciousness, the researchers investigated how the networks' metacognitive capacities influenced their wagering strategies during grammar learning. You can find the notes of the architecure [here]() to better understand the implementation.
 
-## Core API
+Simulation 3 centered around the Iowa Gambling Task, a classic experiment used to study decision-making and risk assessment. In this simulation, two neural networks were interconnected to model the decision-making process. The first-order network received inputs representing outcomes of card decks, and the second-order network placed wagers based on the perceived success of previous decisions. The networks learned to explore and choose decks with higher probabilities of rewards. The simulation aimed to demonstrate how metacognitive processing, represented by the second-order network, influenced decision-making based on the first-order network's performance. By varying learning rates and awareness conditions, the researchers assessed how the networks' metacognitive abilities affected their wagering strategies and decision-making performance. You can find the notes of the architecure [here]() to better understand the implementation.
 
-🛠 [io.py](https://github.com/ppsp-team/HyPyP/blob/master/hypyp/io.py) — Loaders (Florence, Anaël, Ghazaleh, Franck, Jonas, Guillaume)
+## Tests
+Here you can see the code and the results obtained for every implementation
 
-🧰 [utils.py](https://github.com/ppsp-team/HyPyP/blob/master/hypyp/utils.py) — Basic tools (Amir, Florence, Guilaume)
+🛠 [Blindsight Simulation](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/tests/Blindsight_Simulation_GITHUB.ipynb) 
 
-⚙️ [prep.py](https://github.com/ppsp-team/HyPyP/blob/master/hypyp/prep.py) — Preprocessing (ICA & AutoReject) (Anaël, Florence, Guillaume)
 
-🔠 [analyses.py](https://github.com/ppsp-team/HyPyP/blob/master/hypyp/analyses.py) — Power spectral density and wide choice of connectivity measures (Phoebe, Suzanne, Florence, Ghazaleh, Juan, Guillaume)
+⚙️ [Artificial grammar Learning Task Simulation]() 
 
-📈 [stats.py](https://github.com/ppsp-team/HyPyP/blob/master/hypyp/stats.py) — Statistics (permutations & cluster statistics) (Florence, Guillaume)
 
-🧠 [viz.py](https://github.com/ppsp-team/HyPyP/blob/master/hypyp/viz.py) — Inter-brain visualization (Anaël, Amir, Florence, Guillaume)
+🧠 [Iowa Gambling Task Simulation]() 
 
-🎓 [Tutorials](https://github.com/ppsp-team/HyPyP/tree/master/tutorial) - Examples & documentation (Anaël, Florence, Yann, Ghazaleh, Caitriona, Guillaume)
 
-## Poetry installation (only for developpers and adventurous users)
 
-Step 1: ```pip install poetry```
-
-Step 2: ```git clone git@github.com:ppsp-team/HyPyP.git```
-
-Step 3: ```cd HyPyP```
-
-Step 4: ```poetry install```
-
-Step 5: ```poetry shell```
 
 You can now use ```jupyter notebook``` or ```ipython```!
 
