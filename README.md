@@ -10,7 +10,7 @@ The objective of the study titled "Know thyself: Metacognitive networks and meas
 - Original authors: Antoine Pasquali, Bert Timmermans, Axel Cleeremans
 - New contributors: Juan David Vargas
 
-## Notes
+## Simulations - Descriptions
 
 In Simulation 1, the researchers focused on the phenomenon of blindsight. They used neural networks with a specific architecture where a first-order network learned to discriminate between patterns while a second-order network learned to place wagers based on the first-order network's performance. The first-order network was trained to recognize patterns and provide feedback to the second-order network, which wagered on the accuracy of the first-order network's recognition. This simulation aimed to mimic situations of blindsight, where the first-order network either correctly recognized a stimulus, failed to recognize it, or incorrectly recognized it. By manipulating the signal-to-noise ratio and stimulus activation, the simulation demonstrated the metacognitive abilities of the second-order network to wager appropriately even when the first-order network's recognition was impaired, mirroring aspects of human blindsight. You can find the notes of the architecure [here]() to better understand the implementation.
 
