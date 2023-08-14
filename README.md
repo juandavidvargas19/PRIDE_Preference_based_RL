@@ -1,4 +1,4 @@
-# Know thyself: 〰️Metacognitive networks and measures of consciousness〰️
+# 〰️Know thyself: Metacognitive networks and measures of consciousness〰️
 
 The objective of the study titled "Know thyself: Metacognitive networks and measures of consciousness" by Antoine Pasquali, Bert Timmermans, and Axel Cleeremans is to investigate the relationship between subjective measures of awareness and metacognitive capacities. The study introduces the concept of Post-Decision Wagering (PDW) as a measure of awareness, where participants place wagers on their decisions to indicate their confidence levels. The authors propose that such subjective measures of awareness reflect metacognitive abilities driven by self-developed metarepresentations, which inform individuals about their own internal states. The study employs simulations in neural networks to demonstrate the influence of metarepresentations on PDW and provides a fitting comparison with human data. This work contributes to the understanding of consciousness and its assessment methods.
 
