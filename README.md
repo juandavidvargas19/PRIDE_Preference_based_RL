@@ -8,7 +8,7 @@ Our results demonstrate the potential of integrating preference-based reinforcem
 
 ⚠️ In regard to the baseline algorithm that we consider, it's a replication of the exposed paper. Its results should be considered with caution. While we have done our best to test all the functionalities, there is no guarantee that the architecture is a faithful replica of the original. 
 
-📖 See the original [paper](https://github.com/juandavidvargas19/PRIDE_Preference_based_RL_with_Integrated_Deep_Deterministic_Enhaced_policy_gradient/blob/master/docs/s10994-012-5313-8.pdf) for more explanation and the [suplemental material](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/docs/Know%20thyself-%20Metacognitive%20networks%20and%20measures%20of%20consciousness_arch.pdf).
+📖 See the original [paper](https://github.com/juandavidvargas19/PRIDE_Preference_based_RL_with_Integrated_Deep_Deterministic_Enhaced_policy_gradient/blob/master/Docs/s10994-012-5313-8.pdf) for more explanation and the [suplemental material](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/docs/Know%20thyself-%20Metacognitive%20networks%20and%20measures%20of%20consciousness_arch.pdf).
 
 ## Contributors
 - Original authors(baseline): Johannes Fürnkranz · Eyke Hüllermeier · Weiwei Cheng · Sang-Hyeun Park
