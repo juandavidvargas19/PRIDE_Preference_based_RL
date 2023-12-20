@@ -11,7 +11,7 @@ Our results demonstrate the potential of integrating preference-based reinforcem
 📖 See the original [paper](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/docs/Know%20thyself-%20Metacognitive%20networks%20and%20measures%20of%20consciousness.pdf) for more explanation and the [suplemental material](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/docs/Know%20thyself-%20Metacognitive%20networks%20and%20measures%20of%20consciousness_arch.pdf).
 
 ## Contributors
-- Original authors: Johannes Fürnkranz · Eyke Hüllermeier · Weiwei Cheng · Sang-Hyeun Park
+- Original authors(baseline): Johannes Fürnkranz · Eyke Hüllermeier · Weiwei Cheng · Sang-Hyeun Park
 - New contributors: Guillaume Laporte · Jonathan Pilault · Pierre Gallou-Guyot · Juan David Vargas
 
 ## Simulations - Descriptions
