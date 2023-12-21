@@ -12,7 +12,7 @@ Our results demonstrate the potential of integrating preference-based reinforcem
 
 ## Contributors
 - Original authors(baseline): Johannes Fürnkranz · Eyke Hüllermeier · Weiwei Cheng · Sang-Hyeun Park
-- New contributors: Guillaume Laporte · Jonathan Pilault · Pierre Gallou-Guyot · Juan David Vargas
+- New contributors: Guillaume Laporte · Jonathan Pilault · Juan David Vargas · Pierre Gallou-Guyot 
 
 ## Implementations - Descriptions
 
