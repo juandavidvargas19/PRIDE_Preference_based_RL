@@ -1,5 +1,4 @@
-# 〰️On preference-based DQN and DDPG in Cancer treatment
-simulations 〰️ 
+# 〰️On preference-based DQN and DDPG in Cancer treatment simulations 〰️ 
 
 In this project, we expand the preference-based policy iteration framework originally explored by Fürnkranz et al. in 2012, applying it to the critical domain of cancer treatment. We present a novel algorithmic adaptation that incorporates deep learning innovations to address the complexities of medical decision-making. Our approach is validated within a simulated cancer treatment environment, which serves as a challenging testbed due to its high stakes and nuanced decision space.
 
