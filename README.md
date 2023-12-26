@@ -24,7 +24,7 @@ In [Implementation 1 - Baseline:]()The baseline simulation revisits the original
 
 [Implementation 4 - SAC: ](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/tests/Iowa_Gambling_Simulation_GITHUB%20(1).ipynb)The final simulation explores the integration of Soft Actor-Critic (SAC), an entropy-regularized algorithm, within the preference-based learning model. The SAC's exploration-exploitation balance is particularly advantageous in uncertain environments like cancer treatment, where the algorithm must consider both the effectiveness and the potential side effects of different treatment courses. You can find the notes of the architecure [here](https://www.overleaf.com/read/jhjtmyzxfvyw#da47ae) to better understand the implementation. 
 
-## Tests
+## Tests (Colab notebooks)
 
 Here you can see the code and the results obtained for every implementation
 
