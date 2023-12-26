@@ -28,15 +28,15 @@ In [Implementation 1 - Baseline:]()The baseline simulation revisits the original
 
 Here you can see the code and the results obtained for every implementation
 
-🛠 [Baseline](https://colab.research.google.com/drive/19OyOZUuZDFBW-WS2d26_xrVhc9KpEyaK?usp=sharing) 
+🛠 [Baseline](https://github.com/juandavidvargas19/PRIDE_Preference_based_RL/blob/master/Results/Deliverable_Group_Project_Fall_2023%2C_Case_Study_2_Baseline.ipynb) 
 
 
-⚙️ [DQN](https://colab.research.google.com/drive/1zb8plMvff7RQpaFYERXDSNoybzka-y8I?usp=sharing) 
+⚙️ [DQN](https://github.com/juandavidvargas19/PRIDE_Preference_based_RL/blob/master/Results/Deliverable_Group_Project_Fall_2023%2C_Case_Study_2_DQN.ipynb) 
 
 
-🧠 [DDPG](https://colab.research.google.com/drive/12P864-HGuUY4XEtKbeU2oARyOh5W7cn6?usp=sharing) 
+🧠 [DDPG](https://github.com/juandavidvargas19/PRIDE_Preference_based_RL/blob/master/Results/Deliverable_Group_Project_Fall_2023%2C_Case_Study_3_DDPG.ipynb) 
 
 
-🛠 [SAC](https://colab.research.google.com/drive/1LLqdb-mDirVw5J1hcSw5ILHsotsTJHKU?usp=sharing) 
+🛠 [SAC](https://github.com/juandavidvargas19/PRIDE_Preference_based_RL/blob/master/Results/Deliverable_Group_Project_Fall_2023%2C_Case_Study_2_AC.ipynb) 
 
 
