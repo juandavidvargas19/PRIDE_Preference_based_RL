@@ -31,7 +31,7 @@ Here you can see the code and the results obtained for every implementation
 🛠 [Baseline](https://colab.research.google.com/drive/19OyOZUuZDFBW-WS2d26_xrVhc9KpEyaK?usp=sharing) 
 
 
-⚙️ [DQN](https://colab.research.google.com/drive/1zb8plMvff7RQpaFYERXDSNoybzka-y8I?usp=sharing) 
+⚙️ [DQN](https://colab.research.google.com/drive/16TmnExE9lyxNRnR0mHMpdzDxQhGHQ4MZ?usp=sharing) 
 
 
 🧠 [DDPG](https://colab.research.google.com/drive/12P864-HGuUY4XEtKbeU2oARyOh5W7cn6?usp=sharing) 
