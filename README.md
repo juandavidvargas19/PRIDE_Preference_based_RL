@@ -16,27 +16,27 @@ Our results demonstrate the potential of integrating preference-based reinforcem
 
 ## Implementations - Descriptions
 
-In [Implementation 1 - Baseline:]()The baseline simulation revisits the original method by Fürnkranz et al. in a cancer treatment scenario, implementing a classic preference-based policy iteration approach. This simulation sets the foundation for comparing the efficacy of subsequent, more advanced techniques and serves as a control model to evaluate the improvements brought by deep learning adaptations. You can find the notes of the architecure [here](https://www.overleaf.com/read/jhjtmyzxfvyw#da47ae) to better understand the implementation.
+In [Implementation 1 - Baseline:](https://github.com/juandavidvargas19/PRIDE_Preference_based_RL/blob/master/Results/Deliverable_Group_Project_Fall_2023%2C_Case_Study_2_Baseline.ipynb)The baseline simulation revisits the original method by Fürnkranz et al. in a cancer treatment scenario, implementing a classic preference-based policy iteration approach. This simulation sets the foundation for comparing the efficacy of subsequent, more advanced techniques and serves as a control model to evaluate the improvements brought by deep learning adaptations. You can find the notes of the architecure [here](https://www.overleaf.com/read/jhjtmyzxfvyw#da47ae) to better understand the implementation.
 
-[Implementation 2 - DQN: ](https://colab.research.google.com/drive/1zb8plMvff7RQpaFYERXDSNoybzka-y8I?usp=sharing)A Deep Q-Network (DQN)-style algorithm is introduced to the cancer treatment environment. This approach leverages the strength of deep learning to estimate the action-value function, enabling the system to assess and optimize treatment plans based on long-term outcomes rather than immediate rewards alone. You can find the notes of the architecure [here](https://www.overleaf.com/read/jhjtmyzxfvyw#da47ae).
+[Implementation 2 - DQN: ](https://github.com/juandavidvargas19/PRIDE_Preference_based_RL/blob/master/Results/Deliverable_Group_Project_Fall_2023%2C_Case_Study_2_DQN.ipynb)A Deep Q-Network (DQN)-style algorithm is introduced to the cancer treatment environment. This approach leverages the strength of deep learning to estimate the action-value function, enabling the system to assess and optimize treatment plans based on long-term outcomes rather than immediate rewards alone. You can find the notes of the architecure [here](https://www.overleaf.com/read/jhjtmyzxfvyw#da47ae).
 
-[Implementation 3 - DDPG: ](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/tests/Iowa_Gambling_Simulation_GITHUB%20(1).ipynb)The third simulation employs a Deep Deterministic Policy Gradient (DDPG) method, which is particularly well-suited for the continuous action spaces often found in medical treatment planning. By deterministically mapping states to actions, the DDPG model fine-tunes the treatment dosages and schedules with a higher degree of precision, aiming to maximize patient benefits over time. You can find the notes of the architecure [here](https://www.overleaf.com/read/jhjtmyzxfvyw#da47ae) to better understand the implementation. 
+[Implementation 3 - DDPG: ](https://github.com/juandavidvargas19/PRIDE_Preference_based_RL/blob/master/Results/Deliverable_Group_Project_Fall_2023%2C_Case_Study_3_DDPG.ipynb)The third simulation employs a Deep Deterministic Policy Gradient (DDPG) method, which is particularly well-suited for the continuous action spaces often found in medical treatment planning. By deterministically mapping states to actions, the DDPG model fine-tunes the treatment dosages and schedules with a higher degree of precision, aiming to maximize patient benefits over time. You can find the notes of the architecure [here](https://www.overleaf.com/read/jhjtmyzxfvyw#da47ae) to better understand the implementation. 
 
-[Implementation 4 - SAC: ](https://github.com/juandavidvargas19/Know_Thyself_Replication/blob/master/tests/Iowa_Gambling_Simulation_GITHUB%20(1).ipynb)The final simulation explores the integration of Soft Actor-Critic (SAC), an entropy-regularized algorithm, within the preference-based learning model. The SAC's exploration-exploitation balance is particularly advantageous in uncertain environments like cancer treatment, where the algorithm must consider both the effectiveness and the potential side effects of different treatment courses. You can find the notes of the architecure [here](https://www.overleaf.com/read/jhjtmyzxfvyw#da47ae) to better understand the implementation. 
+[Implementation 4 - SAC: ](https://github.com/juandavidvargas19/PRIDE_Preference_based_RL/blob/master/Results/Deliverable_Group_Project_Fall_2023%2C_Case_Study_2_AC.ipynb)The final simulation explores the integration of Soft Actor-Critic (SAC), an entropy-regularized algorithm, within the preference-based learning model. The SAC's exploration-exploitation balance is particularly advantageous in uncertain environments like cancer treatment, where the algorithm must consider both the effectiveness and the potential side effects of different treatment courses. You can find the notes of the architecure [here](https://www.overleaf.com/read/jhjtmyzxfvyw#da47ae) to better understand the implementation. 
 
 ## Tests (Colab notebooks)
 
 Here you can see the code and the results obtained for every implementation
 
-🛠 [Baseline](https://github.com/juandavidvargas19/PRIDE_Preference_based_RL/blob/master/Results/Deliverable_Group_Project_Fall_2023%2C_Case_Study_2_Baseline.ipynb) 
+🛠 [Baseline](https://colab.research.google.com/drive/19OyOZUuZDFBW-WS2d26_xrVhc9KpEyaK?usp=sharing) 
 
 
-⚙️ [DQN](https://github.com/juandavidvargas19/PRIDE_Preference_based_RL/blob/master/Results/Deliverable_Group_Project_Fall_2023%2C_Case_Study_2_DQN.ipynb) 
+⚙️ [DQN](https://colab.research.google.com/drive/1zb8plMvff7RQpaFYERXDSNoybzka-y8I?usp=sharing) 
 
 
-🧠 [DDPG](https://github.com/juandavidvargas19/PRIDE_Preference_based_RL/blob/master/Results/Deliverable_Group_Project_Fall_2023%2C_Case_Study_3_DDPG.ipynb) 
+🧠 [DDPG](https://colab.research.google.com/drive/12P864-HGuUY4XEtKbeU2oARyOh5W7cn6?usp=sharing) 
 
 
-🛠 [SAC](https://github.com/juandavidvargas19/PRIDE_Preference_based_RL/blob/master/Results/Deliverable_Group_Project_Fall_2023%2C_Case_Study_2_AC.ipynb) 
+🛠 [SAC](https://colab.research.google.com/drive/1LLqdb-mDirVw5J1hcSw5ILHsotsTJHKU?usp=sharing) 
 
 
